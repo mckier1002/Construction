@@ -59,6 +59,7 @@ Note: (*) Required for permit final inspection.
 
 - [ ] Front porch 
   - [ ] railing
+     - [ ] create infill mockup
   - [ ] trim
   - [ ] flooring
 - [ ] Yard work
