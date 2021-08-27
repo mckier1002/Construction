@@ -29,6 +29,7 @@ Note: (*) Required for permit final inspection.
   - [ ] cove ltg
   - [ ] bath fans
   - [ ] kitchen cabinets
+- [ ] door stops
 
 ## Prep Work
 
@@ -47,6 +48,12 @@ Note: (*) Required for permit final inspection.
 - [ ] library
 - [ ] front entry
 - [ ] hand railings
+  - [ ] buffet
+  - [ ] master
+  - [ ] garage
+- [ ] tv cabinet
+- [ ] fireplace shelves
+- [ ] coffee table
 
 ## Ext Work
 
