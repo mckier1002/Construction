@@ -29,6 +29,7 @@ Note: (*) Required for permit final inspection.
   - cove ltg
   - bath fans
   - kitchen cabinets
+- 
 
 ## Prep Work
 
